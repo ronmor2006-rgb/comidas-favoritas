@@ -19,16 +19,16 @@
         </section>
 
         <section class="content">
-            <h2>El Top 3 Gastron髆ico</h2>
+            <h2>El Top 3 Gastron贸mico</h2>
             <p>Estas son las preparaciones que nunca fallan en mi mesa:</p>
             
             <ol class="food-list">
-                <li><strong>Pizza Artesanal:</strong> Por su versatilidad y la combinaci髇 perfecta de queso y albahaca.</li>
-                <li><strong>Pabell髇 Criollo:</strong> Un cl醩ico balanceado con arroz, caraotas, carne mechada y tajadas.</li>
-                <li><strong>Sushi:</strong> Por la frescura de los ingredientes y la t閏nica en su preparaci髇.</li>
+                <li><strong>Pizza Artesanal:</strong> Por su versatilidad y la combinaci贸n perfecta de queso y albahaca.</li>
+                <li><strong>Pabell贸n Criollo:</strong> Un cl谩sico balanceado con arroz, caraotas, carne mechada y tajadas.</li>
+                <li><strong>Sushi:</strong> Por la frescura de los ingredientes y la t茅cnica en su preparaci贸n.</li>
             </ol>
 
-            <button class="btn-action">uen Provecho!</button>
+            <button class="btn-action">隆Buen Provecho!</button>
         </section>
     </main>
 
